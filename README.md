@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="#">
-    <img align="center" width="280" src="#" />
+  <a href="https://www.linkedin.com/in/daniel-carvalho-72287516b/">
+    <img align="center" width="280" src="image1.png" />
   </a>
   <a href="#">
     <img align="center" width="510" src="banner.gif" />
@@ -124,4 +124,4 @@
 ### Find me around the web 🌎:
 
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/daniel-carvalho-72287516b/">LinkedIn</a>.
-- 🐦 Following me on <a href="#">Twitter</a>.
+- 🐦 Check out my<a href="https://danielcarvalho.netlify.app/">Website</a>.
