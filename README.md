@@ -27,27 +27,83 @@
 
 ### Abstract
 
-- 👨‍💻 I'm currently working full-time at **Neon Pagamentos S/A**.
-- 🌱 Learning more about and studying: **NodeJS, DevOps and K8s**.
-- 💙 Interests: games 👾, cats (Loki 🐱).
+- 👨‍💻 I'm currently working full-time at **Pluricosmética**.
+- 🌱 Learning more about and studying: **NodeJS, Docker and VueJs**.
+- 💙 Interests: games 👾, sports, learning new things.
 
 ### Languages and Tools
 
 <br/>
 
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-      alt="aws"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.docker.com/" target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"
       alt="docker"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.php.net//" target="_blank">
+    <img
+      src="https://devicon.dev/devicon.git/icons/php/php-original.svg"
+      alt="php"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.github.com/" target="_blank">
+    <img
+      src="https://devicon.dev/devicon.git/icons/github/github-original.svg"
+      alt="github"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img
+      src="https://devicon.dev/devicon.git/icons/git/git-plain-wordmark.svg"
+      alt="git"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img
+      src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img
+      src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg"
+      alt="bootstrap"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://jquery.com/" target="_blank">
+    <img
+      src="https://devicon.dev/devicon.git/icons/jquery/jquery-original-wordmark.svg"
+      alt="jquery"
+      width="40"
+      height="40"
+    />
+  </a>
+   <a href="https://www.linux.org/" target="_blank">
+    <img
+      src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg"
+      alt="linux"
+      width="40"
+      height="40"
+    />
+  </a>
+   <a href="https://www.npmjs.com/" target="_blank">
+    <img
+      src="https://devicon.dev/devicon.git/icons/npm/npm-original-wordmark.svg"
+      alt="npm"
       width="40"
       height="40"
     />
@@ -63,81 +119,9 @@
       height="40"
     />
   </a>
-  <a href="https://www.jenkins.io" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
-      alt="jenkins"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://jestjs.io" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-      alt="jest"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://kubernetes.io" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
-      alt="kubernetes"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.rabbitmq.com" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"
-      alt="rabbitMQ"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
 </p>
 
 ### Find me around the web 🌎:
 
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/william-queiroz/">LinkedIn</a>.
-- 🐦 Following me on <a href="https://twitter.com/wnqueiroz/">Twitter</a>.
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/daniel-carvalho-72287516b/">LinkedIn</a>.
+- 🐦 Following me on <a href="#">Twitter</a>.
