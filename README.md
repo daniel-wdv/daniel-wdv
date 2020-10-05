@@ -124,4 +124,4 @@
 ### Find me around the web 🌎:
 
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/daniel-carvalho-72287516b/">LinkedIn</a>.
-- 🐦 Check out my<a href="https://danielcarvalho.netlify.app/">Website</a>.
+- 🐦 Check out my <a href="https://danielcarvalho.netlify.app/">Website</a>.
