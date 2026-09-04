@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Carvalho</h1>
-<h3 align="center">A FullStack Developer from Portugal</h3>
+<h3 align="center">Software Engineer from Portugal</h3>
 
 - 🔭 I’m currently working on [Bloop](https://bloop.eu/)
 
