@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Daniel Carvalho</h1>
 <h3 align="center">A FullStack Developer from Portugal</h3>
 
-- 🔭 I’m currently working on [Grupo Impresa](https://www.impresa.pt/)
+- 🔭 I’m currently working on [Bloop](https://bloop.eu/)
 
 - 👨‍💻 All of my projects are available at [https://danielcarvalho.netlify.app/contact](https://danielcarvalho.netlify.app/contact)
 
 - 📫 How to reach me **danielcarvalho.wd@gmail.com**
-
-- 📄 Know about my experiences [https://daniel-carvalho-cv-2024.tiiny.site/](https://daniel-carvalho-cv-2024.tiiny.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
