@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Bloop](https://bloop.eu/)
 
-- 👨‍💻 All of my projects are available at [https://danielcarvalho.netlify.app/contact](https://danielcarvalho.netlify.app/contact)
+- 👨‍💻 All of my projects are available at [https://site.danielcarvalho-wd.workers.dev](https://site.danielcarvalho-wd.workers.dev)
 
 - 📫 How to reach me **danielcarvalho.wd@gmail.com**
 
